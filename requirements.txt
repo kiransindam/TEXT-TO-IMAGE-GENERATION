@@ -1,0 +1,7 @@
+Our project relies on a powerful set of libraries to make text-to-image generation possible:
+
+mediapy: Manipulate images and videos, enabling dynamic content creation.
+torch: The PyTorch framework serves as the backbone for our deep learning models.
+sys: Essential for system-level operations and interactions.
+DiffusionPipeline: Enhances data preprocessing and augmentation.
+random: Injects randomness into the generation process, fostering diversity in the output.
