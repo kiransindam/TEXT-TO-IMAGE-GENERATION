@@ -1,3 +1,4 @@
+![proj_3](https://github.com/kiransindam/TEXT-TO-IMAGE-GENERATION/assets/101730779/7f0e3e54-c89a-4b89-aaf2-38efc5c882ca)
 
 
 https://github.com/kiransindam/TEXT-TO-IMAGE-GENERATION/assets/101730779/5cfd7b6c-9f1c-4e02-86c2-7651d2df96b4
